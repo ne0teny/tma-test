@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tma-test/static/css/main.31494e5a.css",
+    "main.js": "/tma-test/static/js/main.51019140.js",
+    "static/js/453.a400fa63.chunk.js": "/tma-test/static/js/453.a400fa63.chunk.js",
+    "index.html": "/tma-test/index.html",
+    "main.31494e5a.css.map": "/tma-test/static/css/main.31494e5a.css.map",
+    "main.51019140.js.map": "/tma-test/static/js/main.51019140.js.map",
+    "453.a400fa63.chunk.js.map": "/tma-test/static/js/453.a400fa63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31494e5a.css",
+    "static/js/main.51019140.js"
+  ]
+}
