@@ -2,15 +2,17 @@ import React, { useState, useEffect } from 'react';
 import ZodiacBlock from './components/ZodiacBlock';
 import WebApp from '@twa-dev/sdk';
 import './styles.css';
+import zodiac1 from './zodiac1.png';
+import zodiac2 from './zodiac2.png';
 
 const zodiacSigns = {
   en: [
-    { name: 'Aries', period: 'March 21 - April 19', icon: 'path/to/aries-icon.png' },
-    { name: 'Taurus', period: 'April 20 - May 20', icon: 'path/to/taurus-icon.png' },
+    { name: 'Aries', period: 'March 21 - April 19', icon: zodiac1 }, 
+    { name: 'Taurus', period: 'April 20 - May 20', icon: zodiac2 }, 
   ],
   ru: [
-    { name: 'Овен', period: '21 марта - 19 апреля', icon: 'path/to/aries-icon.png' },
-    { name: 'Телец', period: '20 апреля - 20 мая', icon: 'path/to/taurus-icon.png' },
+    { name: 'Овен', period: '21 марта - 19 апреля', icon: zodiac1 }, 
+    { name: 'Телец', period: '20 апреля - 20 мая', icon: zodiac2 }, 
   ],
 };
 
