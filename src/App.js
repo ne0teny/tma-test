@@ -7,12 +7,12 @@ import zodiac2 from './zodiac2.png';
 
 const zodiacSigns = {
   en: [
-    { name: 'Aries', period: 'March 21 - April 19', icon: zodiac1 }, 
-    { name: 'Taurus', period: 'April 20 - May 20', icon: zodiac2 }, 
+    { name: 'Aries', period: 'March 21 - April 19', icon: `/tma-test/zodiac1.png` }, 
+    { name: 'Taurus', period: 'April 20 - May 20', icon: `/tma-test/zodiac2.png` }, 
   ],
   ru: [
-    { name: 'Овен', period: '21 марта - 19 апреля', icon: zodiac1 }, 
-    { name: 'Телец', period: '20 апреля - 20 мая', icon: zodiac2 }, 
+    { name: 'Овен', period: '21 марта - 19 апреля', icon: `/tma-test/zodiac1.png` }, 
+    { name: 'Телец', period: '20 апреля - 20 мая', icon: `/tma-test/zodiac2.png` }, 
   ],
 };
 
